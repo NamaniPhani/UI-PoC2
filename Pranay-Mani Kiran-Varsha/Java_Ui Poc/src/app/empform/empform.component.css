@@ -1,0 +1,32 @@
+.fm{
+    width:400px;
+    padding:50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: -23px;
+    }
+.table{
+    width: 600px;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: 18px;
+    margin-left: 105px;
+}
+.btn{
+    padding:4px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin-left: 131px;
+   
+}
+.pg{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-left: 374px;
+}
